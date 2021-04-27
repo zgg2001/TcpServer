@@ -1,0 +1,2 @@
+D:\VS\VS2019code\guguServer\Debug\guguAlloc.pdb
+D:\VS\VS2019code\guguServer\guguAlloc\Debug\guguAlloc.pdb

@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  guguTimer.cpp
+    正在创建库 D:\VS\VS2019code\guguDll\Release\guguDll.lib 和对象 D:\VS\VS2019code\guguDll\Release\guguDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  guguDll.vcxproj -> D:\VS\VS2019code\guguDll\Release\guguDll.dll
